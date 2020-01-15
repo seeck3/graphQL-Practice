@@ -1,6 +1,6 @@
 1 - npm init
 
-2 - npm install --save or npm i --save 
+2 - npm install --save or npm i --save (server-side)
     2.1 - express 
     2.2 - express-graphql
     2.3 - graphql
